@@ -1,6 +1,6 @@
 package main
 
-import "fmt"
+/*import "fmt"
 
 func main() {
     three := "III"
@@ -12,7 +12,7 @@ func main() {
     fmt.Printf("%s -> %d\n", three, romanToInt(three))
     fmt.Printf("%s -> %d\n", long_number, romanToInt(long_number))
     fmt.Printf("%s -> %d\n", "XCIX", romanToInt("XCIX"))
-}
+}*/
 
 func romanToInt(s string) int {
     result := 0
